@@ -34,6 +34,11 @@ nav ul li a {
     font-size: 1.2em;
 }
 
+nav ul li a:hover {
+    transform: scale(1.1);
+    color: rgba(253,187,45,1);
+}
+
 h1 {
     font-size: 8em;
     letter-spacing: -2px;
@@ -46,6 +51,12 @@ h1 strong {
     -webkit-text-fill-color: transparent;
 }
 
+::selection {
+    background-color: coral;
+    color: azure;
+}
+
 img.about {
     opacity: 0.5;
 }
+
