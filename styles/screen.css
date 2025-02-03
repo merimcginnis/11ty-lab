@@ -53,7 +53,7 @@ h1 strong {
 
 ::selection {
     background-color: rgb(156, 243, 255);
-    color: azure;
+    color: rgb(22, 22, 22);
 }
 
 img.about {
