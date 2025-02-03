@@ -8,7 +8,7 @@ Model: OpenAI GPT-3
 Prompt: "Write a blog post from the perspective of a lone human interstellar explorer reflecting on their journey. Include thoughts on the vastness of space, loneliness, and wonder."
 -->
 
-# Entry 002
+# **Entry 002**
 ## *Entry 002: A Mysterious Signal*  
 ### Something strange happened today. While scanning for signs of extraterrestrial life, I intercepted a faint signal. The pattern was irregular, almost like a message. I tried to trace its origin, but the signal disappeared before I could get a fix on it. 
 
